@@ -1,2 +1,2 @@
-# Udemy-FullStack
-Practice Problems of the Full-Stack Udemy Course.
+# Udemy-Development
+Practice Problems of Udemy Course.
